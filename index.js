@@ -7,4 +7,3 @@ function subtract(a,b){
   var result = a - b;
   return result;
 }
-
