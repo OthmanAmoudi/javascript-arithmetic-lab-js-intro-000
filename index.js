@@ -19,13 +19,13 @@ function divide(a,b){
 }
 
 function inc(n){
-  var result = n++;
-  return result;
+  n++
+  return n;
 }
 
 function dec(n){
-  var result = n--;
-  return result;
+  n-- 
+  return n;
 }
 
 function makeInt(n){
