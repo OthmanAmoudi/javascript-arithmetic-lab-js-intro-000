@@ -37,6 +37,3 @@ function preserveDecimal(n){
   var result = parseFloat(n) ;
   return result;
 }
-
-
-
